@@ -1,4 +1,4 @@
-# MXX
+# Campus
 A personal learning project to fill in gaps in my knowledge.
 
 ## Courses
