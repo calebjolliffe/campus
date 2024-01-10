@@ -2,7 +2,7 @@
 A personal learning project to fill in gaps in my knowledge.
 
 ## Courses
-- [MPM2D1]()
+- [MPM2D1](https://github.com/calebjolliffe/campus/tree/main/math/mpm2d1)
 - [MCR3U1]()
 
 ## Logic
