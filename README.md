@@ -8,4 +8,4 @@ A personal learning project to fill in gaps in my knowledge.
 ## Logic
 Many of the courses required to enroll in a software engineering or related program at the post-secondary level were not available to me while I was in high school. Now that I am beyond high school and post-secondary, I am aiming to fill in my knowledge gaps so that I can pursue my original dream of becoming a software engineer.
 
-*Last updated: 01-10-24*
+*Last updated: 01-12-24*
